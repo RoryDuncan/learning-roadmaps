@@ -1,2 +1,1 @@
-# learn
-Set of resources for learning subjects
+# Learning Roadmaps
