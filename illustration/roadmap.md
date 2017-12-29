@@ -19,4 +19,7 @@ Learn the tools of general illustration and design. Of course, practice is the k
   - Typography
   
 ## Learning Animation
+  - Disney's 12 Principles of Animation
+    - [Introduction](https://vimeo.com/93206523)
+    - [Deeper Dive](https://www.youtube.com/watch?v=uDqjIdI4bF4) (Series by Alan Becker)
 ## Photo Manipulation
