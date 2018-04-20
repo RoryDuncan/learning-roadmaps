@@ -20,7 +20,7 @@ This step is for your own cognisance. Try, and potentially fail, to build someth
 
 MDN should be your first resource for looking up capabilities, method names, and other facets of javascript.
 
-4. Repeatedly challange yourself via [CodeWars](https://www.codewars.com)
+4. Repeatedly challenge yourself via [CodeWars](https://www.codewars.com)
 
 This step is to incorporate fun, but challanging, problems into your learning process.
 Kata's scale fairly well with your skill, but also provide you insight into computer science problems.
