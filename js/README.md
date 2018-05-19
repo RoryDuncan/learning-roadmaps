@@ -12,6 +12,8 @@ This is a roadmap for new-to-programming users who want to learn Javascript.
 
     Try to complete the entire codeacademy javascript course within a month. If you do not use the information, you will most likely forget it, so doing it within a reasonable amount of time will help you not forget key lessons causing you to need to start over.
 
+    _Update: As of 5/2018 I think CodeAcademy's quality has dropped off in their pursuit of luring people into buying CodeAcademyPro._
+
 2. Make something in codepen / jsfiddle
 
     This step is for your own cognisance. Try, and potentially fail, to build something. This will tell you what you do know, and where you need help.
@@ -19,6 +21,7 @@ This is a roadmap for new-to-programming users who want to learn Javascript.
 3. Reference [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/) for help with syntax, methods, and more.
 
     MDN should be your first resource for looking up capabilities, method names, and other facets of javascript.
+    As an example of what to google: "mdn array forEach" to look up the `forEach` method of arrays.
 
 4. Repeatedly challenge yourself via [CodeWars](https://www.codewars.com)
 
