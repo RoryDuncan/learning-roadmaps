@@ -38,7 +38,11 @@ Kata's scale fairly well with your skill, but also provide you insight into comp
 
     This is when you should have been thinking of something that wouid be neat to build, or that *you want to build* and give it your first go. Don't choose something too lofty like a game, or an entire application. It's on you to be practical. I suggest aiming to work on a project that will take you less than a week to complete the initial code portion (you can go back to cleanup if needed).
 
+8. You will note that this list isn't fully comprehensive of all of JS. This is only a list to get you far enough until your own interest and desire to _build things_ takes off. At that point, you should be self-motivated, and at least know the questions to ask to propel your own learning.
+
+
 ### Tools for learning
 
 1. [Codepen.io](https://codepen.io/) for quickly prototyping things. [JSfiddle.net](https://jsfiddle.net/) works just-as-well.
-2. [CodeSandbox.io](CodeSandbox.io) For a more-involved version of codepen.io, with built in frameworks.
+1. [CodeSandbox.io](CodeSandbox.io) For a more-involved version of codepen.io, with built in frameworks.
+1. [projecteuler.net](projecteuler.net) Code challenges based on mathematical problems. They start easy enough and ramp up.
