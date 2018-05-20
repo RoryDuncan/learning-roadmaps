@@ -14,7 +14,7 @@ This is a roadmap for new-to-programming users who want to learn Javascript.
 
     _Update: As of 5/2018 I think CodeAcademy's quality has dropped off in their pursuit of luring people into buying CodeAcademyPro._
 
-    Refer to [javascript-fundementals](./javascript-fundementals.md) as a checklist.
+    Refer to [javascript-fundementals](./javascript-fundamentals.md) as a checklist.
 
 2. Make something in codepen / jsfiddle
 
