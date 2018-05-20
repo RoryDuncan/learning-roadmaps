@@ -35,7 +35,7 @@ Kata's scale fairly well with your skill, but also provide you insight into comp
 
 5. Build a Project
 
-    This is when you should havve been thinking of something that wouid be neat to build, or that *you want to build* and give it your first go. Don't choose something too lofty like a game, or an entire application. It's on you to be practical. I suggest aiming to work on a project that will take you less than a week to complete the initial code portion (you can go back to cleanup if needed).
+    This is when you should have been thinking of something that wouid be neat to build, or that *you want to build* and give it your first go. Don't choose something too lofty like a game, or an entire application. It's on you to be practical. I suggest aiming to work on a project that will take you less than a week to complete the initial code portion (you can go back to cleanup if needed).
 
 ### Tools for learning
 
