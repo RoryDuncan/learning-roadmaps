@@ -6,14 +6,12 @@ This is a roadmap for new-to-programming users who want to learn Javascript.
 
 ## Learning the language and syntax
 
-1. [CodeAcademy](https://www.codecademy.com/learn/javascript)
+1. [Understand the ecosystem you're learning, and how JS fits into it](https://atom-morgan.github.io/what-is-web-development/)
 
-    To start with, you need to learn the language and it's features (aka, _syntax_). Codeacademy has an amazingly simple model for helping new-to-programming students learn programming, or at a minimum gaining exposure to programming. Unfortunately, much of their content has changed to be paywalled.
+2. [Learn JavaScript / Web Development on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-    Complete the JavaScript course within a short timeframe--preferably in a week. If you do not use the information, you will most likely forget it, so doing it within a reasonable amount of time will help you not forget key lessons causing you to need to start over.
+    To start with, you need to learn the language and it's features (aka, _syntax_). The language is the tool that will allow you to create things. It's suggested you do all parts of the [Learn Web Development on MDN](https://developer.mozilla.org/en-US/docs/Learn) as understanding web development will help you immensely if you plan to use JavaScript in the browser. It will teach you how JavaScript fits into the web.
 
-2.  [FreeCodeCamp.com](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript)
-    Use the list of javascript items to pave your way to the next step. You can either go through FreeCodeCamp, or just use this list and google for blog articles on each topic. Some may be too simple to merit a blog, in which you should find them on [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/). See item 5, below.
     
 3. Refer to [javascript-fundementals](./javascript-fundamentals.md) as a checklist before proceeding.
 
@@ -24,7 +22,7 @@ This is a roadmap for new-to-programming users who want to learn Javascript.
 5. Reference [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/) for help with syntax, methods, and more.
 
     MDN should be your first resource for looking up capabilities, method names, and other facets of javascript.
-    As an example of what to google: "mdn array forEach" to look up the `forEach` method of arrays.
+    As an example of what to google: "mdn array forEach" to look up the [`forEach` method of arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach).
 
 6. Repeatedly challenge yourself via [CodeWars](https://www.codewars.com)
 
