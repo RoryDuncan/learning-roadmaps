@@ -2,7 +2,7 @@
 
 # Learning Javascript roadmap
 
-This is a roadmap for new-to-programming users who want to learn Javascript.
+This is a roadmap for new-to-programming users who want to learn JavaScript.
 
 ## Learning the language and syntax
 
