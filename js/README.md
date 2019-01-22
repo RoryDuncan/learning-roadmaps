@@ -8,7 +8,7 @@ This is a roadmap for new-to-programming users who want to learn JavaScript.
 
 1. [Understand the ecosystem you're learning, and how JS fits into it](https://atom-morgan.github.io/what-is-web-development/)
 
-2. [Learn JavaScript / Web Development on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+2. Learn JavaScript / Web Development [on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) and/or [on CodeAcademy](https://www.codecademy.com/learn/introduction-to-javascript)
 
     To start with, you need to learn the language and it's features (aka, _syntax_). The language is the tool that will allow you to create things. It's suggested you do all parts of the [Learn Web Development on MDN](https://developer.mozilla.org/en-US/docs/Learn) as understanding web development will help you immensely if you plan to use JavaScript in the browser. It will teach you how JavaScript fits into the web.
 
