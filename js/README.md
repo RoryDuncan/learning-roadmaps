@@ -42,5 +42,5 @@ Kata's scale fairly well with your skill, but also provide you insight into comp
 ### Tools for learning
 
 1. [Codepen.io](https://codepen.io/) for quickly prototyping things. [JSfiddle.net](https://jsfiddle.net/) works just-as-well.
-1. [CodeSandbox.io](CodeSandbox.io) For a more-involved version of codepen.io, with built in frameworks.
-1. [projecteuler.net](projecteuler.net) Code challenges based on mathematical problems. They start easy enough and ramp up.
+1. [CodeSandbox.io](https://CodeSandbox.io) For a more-involved version of codepen.io, with built in frameworks.
+1. [projecteuler.net](https://projecteuler.net/) Code challenges based on mathematical problems. They start easy enough and ramp up.
