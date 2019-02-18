@@ -4,7 +4,7 @@
 
 Learn the tools of general illustration and design. Of course, practice is the key to achieving results.
 
-## Learning Raster Photoshop
+## Learning Photoshop
 ## Learn Illustrator
 - Learn Pen Tool
   - https://bezier.method.ac/
