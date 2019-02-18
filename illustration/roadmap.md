@@ -9,7 +9,7 @@ Learn the tools of general illustration and design. Of course, practice is the k
 - Learn Pen Tool
   - https://bezier.method.ac/
 - Youtube channels:
-  - [Dansky](https://www.youtube.com/user/ForeverDansky0
+  - [Dansky](https://www.youtube.com/user/ForeverDansky0)
   - [Yes, I'm a Designer youtube channel](https://www.youtube.com/channel/UCT_of6HCtVZFpnnnLUeAGYA)
   - [Learn Graphic Design](https://www.youtube.com/channel/UCJneT8kR87YUTTi_jUEcg5w)
 
