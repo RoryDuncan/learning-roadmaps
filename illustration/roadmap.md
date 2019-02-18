@@ -4,14 +4,15 @@
 
 Learn the tools of general illustration and design. Of course, practice is the key to achieving results.
 
-## Learning Tools
-- Raster
-  - Krita
-  - Photoshop
-  - Gimp
-- Vector
-  - Illustrator
-  - Affinity Design
+## Learning Raster Photoshop
+## Learn Illustrator
+- Learn Pen Tool
+  - https://bezier.method.ac/
+- Youtube channels:
+  - [Dansky](https://www.youtube.com/user/ForeverDansky0
+  - [Yes, I'm a Designer youtube channel](https://www.youtube.com/channel/UCT_of6HCtVZFpnnnLUeAGYA)
+
+
 
 ## Learning Design
   - Principles
